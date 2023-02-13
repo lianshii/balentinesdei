@@ -1,0 +1,27 @@
+.navbar {
+    overflow: hidden;
+    background-color: #F4E1CA;
+}
+
+
+.navbar a {
+    color: #524149;
+    float: right;
+    padding: 25px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+
+.navbar a:hover {
+    color: #F4E1CA;
+    background-color: burlywood;
+}
+
+
+.navbar a.active {
+    background-color: #524149;
+    color: #F4E1CA;
+}
+
